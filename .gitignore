@@ -1,3 +1,4 @@
 node_modules
 *lock*
 queries.sql
+.env
